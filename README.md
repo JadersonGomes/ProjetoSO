@@ -1,13 +1,13 @@
 # ProjetoSO
 
-Sistema que consiste em simular o escalonador de processos Round Robin preemptivo. Desta forma, o software controla operações de IO, tempo de processamento e duração de cada processo. Simulando exatamente o que ocorre na CPU de um computador.
+<p>Sistema que consiste em simular o escalonador de processos Round Robin preemptivo. Desta forma, o software controla operações de IO, tempo de processamento e duração de cada processo. Simulando exatamente o que ocorre na CPU de um computador.<\p>
 
-Ricardo Heinze 20561282
-Jaderson Gomes 20880417
-Gabriel Garrido 20884267
-Wanderson da Silva Araujo 20735901
-Victor de Souza 20877950
-Vinicius Henrique 20776749
+Ricardo Heinze 20561282<br>
+Jaderson Gomes 20880417<br>
+Gabriel Garrido 20884267<br>
+Wanderson da Silva Araujo 20735901<br>
+Victor de Souza 20877950<br>
+Vinicius Henrique 20776749<br>
 
 
 

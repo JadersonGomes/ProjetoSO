@@ -1,4 +1,4 @@
-# ProjetoSO
+# Projeto de Sistemas Operacionais - Escalonador Round Robin
 
 <p>Sistema que consiste em simular o escalonador de processos Round Robin preemptivo. Desta forma, o software controla operações de IO, tempo de processamento e duração de cada processo. Simulando exatamente o que ocorre na CPU de um computador.
 
